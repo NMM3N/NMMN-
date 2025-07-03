@@ -37,8 +37,10 @@ I am a technologist, hardware hacker, and AI innovator focused on building futur
 ## 🌐 Links
 
 - **Website:** [nasseralsaadneh.com](https://www.nasseralsaadneh.com)
+
+- 
 - **LinkedIn:** [linkedin.com/in/nasseralsaadneh](https://linkedin.com/in/nasseralsaadneh)
 
 ---
 
-> *Let’s connect and build the future together!*
+> *Let’s connect and build the future together!*  
